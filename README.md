@@ -11,3 +11,14 @@
 
 
 ## Deep Learning Algorithm
+
+- [Autoencoders](https://github.com/LiaoPan/Dive-Into-Machine-Learning/blob/master/Autoencoders/Autoencoder.ipynb)
+
+
+
+
+## Reference Resources:
+- scikit-learning document
+- kaggle website
+- Machine Learning with scikit learn and tensorflow
+- 李宏毅 深度学习
