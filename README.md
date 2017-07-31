@@ -14,7 +14,7 @@
 
 - [Autoencoders](https://github.com/LiaoPan/Dive-Into-Machine-Learning/blob/master/Autoencoders/Autoencoder.ipynb)
 
--[Ensemble Methods](https://github.com/LiaoPan/Dive-Into-Machine-Learning/blob/master/Ensemble Method/Ensemble Methods.ipynb)
+- [Ensemble Methods](https://github.com/LiaoPan/Dive-Into-Machine-Learning/blob/master/Ensemble%20Method/Ensemble%20Methods.ipynb)
 
 
 ## Reference Resources:
