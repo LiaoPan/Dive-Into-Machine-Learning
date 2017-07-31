@@ -22,3 +22,5 @@
 - kaggle website
 - Machine Learning with scikit learn and tensorflow
 - 李宏毅 深度学习
+- [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- https://github.com/cthorey/CS231
